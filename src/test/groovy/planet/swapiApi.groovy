@@ -16,7 +16,7 @@ import base.BaseTestSpec
  */
 
 
-class planet extends BaseTestSpec {
+class swapiApi extends BaseTestSpec {
 
     def mySwapi = new com.util();
 

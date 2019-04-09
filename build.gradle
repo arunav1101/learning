@@ -45,15 +45,15 @@ task testProperties(type: Copy) {
 }
 
 
-// JaCoCo
-apply plugin: 'jacoco'
-
-test.finalizedBy jacocoTestReport
-
-jacocoTestReport {
-    reports {
-        xml.enabled false
-        csv.enabled false
-        html.destination "build/reports/test/jacocoHtml"
-    }
-}
+//// JaCoCo
+//apply plugin: 'jacoco'
+//
+//test.finalizedBy jacocoTestReport
+//
+//jacocoTestReport {
+//    reports {
+//        xml.enabled false
+//        csv.enabled false
+//        html.destination "build/reports/test/jacocoHtml"
+//    }
+//}
