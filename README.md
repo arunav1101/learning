@@ -8,5 +8,5 @@ Add the Enviornment variable and run the project
 
 In Intellig IDE- Go to Tools-> Edit Configurations and 
 Use classpath of module as learning.test
-Right Click on the test and Run the test
+Select the test and Run It
 
