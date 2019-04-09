@@ -1,4 +1,4 @@
-package planet
+package swapi
 
 
 import base.BaseTestSpec
